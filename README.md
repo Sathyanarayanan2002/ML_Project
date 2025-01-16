@@ -1,1 +1,1 @@
-                                                   House Price Prediction Website using Django
+                                    House Price Prediction Website using Django
